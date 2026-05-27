@@ -1,0 +1,28 @@
+# EXAMEN DE RECUPERACIÓN DE INFORMACIÓN - I BIMESTRE
+# Edison Quizhpe - 27/05/2026
+# Dependencias necesarias para ejecutar el notebook de recuperación de información
+
+# ===== Data Manipulation & Analysis =====
+pandas>=2.0.0
+numpy>=1.24.0
+
+# ===== Natural Language Processing =====
+nltk>=3.8.1
+
+# ===== Sentence Embeddings & Transformers =====
+sentence-transformers>=2.2.0
+transformers>=4.30.0
+huggingface-hub>=0.16.0
+
+# ===== Machine Learning =====
+scikit-learn>=1.3.0
+
+# ===== Visualization =====
+matplotlib>=3.7.0
+seaborn>=0.12.0
+adjustText>=0.7.3
+
+# ===== Deep Learning Framework =====
+torch>=2.0.0
+torchaudio>=2.0.0
+torchvision>=0.15.0
